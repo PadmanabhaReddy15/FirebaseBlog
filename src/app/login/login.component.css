@@ -1,0 +1,25 @@
+.background {
+    background-color:  #2e7cf6;
+    /* background-image: url(https://phoenixaerodrone.files.wordpress.com/2020/07/img_20191124_172536-1.jpg); */
+    background-image: url(https://phoenixaerodrone.files.wordpress.com/2020/09/img_7347-e1601221378955.jpg);
+    background-position: right center;
+    height: 100%
+}
+
+.card {
+    background-color: transparent !important;
+    color: #fff;
+    border: none;
+    margin-top:  35%;
+}
+
+.btn[type = submit]{
+    border-radius: 50px;
+}
+.btn-link {
+    color: rgb(222, 234, 238);
+}
+h5{
+    color: rgb(26, 9, 97);
+    font-weight: 700;
+}

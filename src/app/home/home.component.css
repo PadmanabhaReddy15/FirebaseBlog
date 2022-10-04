@@ -1,0 +1,36 @@
+.vertical-divider{
+    border-right: 1px solid #ddd;
+}
+.background {
+    background-color:  #2e7cf6;
+    /* background-image: url(https://phoenixaerodrone.files.wordpress.com/2020/07/img_20191124_172536-1.jpg); */
+    background-image: url(https://phoenixaerodrone.files.wordpress.com/2020/09/193719fn9zdt933hmfddfm-e1601036341888.jpg);
+    background-position: right center;
+    height: 90%;
+    background-repeat: repeat-n;
+}
+.card-text {
+    background-color: transparent;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(18, 7, 68);
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 6px 14px;
+    text-decoration: none;
+  }
